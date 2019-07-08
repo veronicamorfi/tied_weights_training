@@ -11,4 +11,10 @@ Tied weights training follows the hard parameter training convention, where laye
 
 During training each network is trained consecutively for one epoch, updating the weights of the shared layers.
 
+This example is specific to the NIPS4Bplus dataset and annotations. And the code assumes that the recordings have been pre-processed into melspecs of size (mel bands, time frames)=(40, 432)
+
 ![tied](https://user-images.githubusercontent.com/18617080/60804009-6ab47380-a174-11e9-9145-81803c29f844.png)
+
+## NIPS4Bplus Dataset
+[a link](https://figshare.com/articles/Transcriptions_of_NIPS4B_2013_Bird_Challenge_Training_Dataset/6798548)
+
