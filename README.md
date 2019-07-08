@@ -16,5 +16,6 @@ This example is specific to the NIPS4Bplus dataset and annotations. And the code
 ![tied](https://user-images.githubusercontent.com/18617080/60804009-6ab47380-a174-11e9-9145-81803c29f844.png)
 
 ## NIPS4Bplus Dataset
-[a link](https://figshare.com/articles/Transcriptions_of_NIPS4B_2013_Bird_Challenge_Training_Dataset/6798548)
+[NIPS4Bplus recordings](http://sabiod.univ-tln.fr/nips4b/media/birds/NIPS4B_BIRD_CHALLENGE_TRAIN_TEST_WAV.tar.gz)
+[NIPS4Bplus temporal annotations](https://figshare.com/articles/Transcriptions_of_NIPS4B_2013_Bird_Challenge_Training_Dataset/6798548)
 
